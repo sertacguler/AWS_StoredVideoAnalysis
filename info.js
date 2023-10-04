@@ -48,6 +48,6 @@ mkdir .aws
 
 touch credentials
 
-aws_access_key_id = AKIAUPRTIO6XBZUCBBVN
-aws_secret_access_key = 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
+aws_access_key_id =
+aws_secret_access_key =
 */
